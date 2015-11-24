@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    width:80%;
+    margin:0 auto;
+    text-align: center;
+    
+}
+
+h1 {
+    color: red;
+    font-family: "Times New Roman", Georgia, serif;
+}
+
+p {
+    font-family: Helvetica Narrow, sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
